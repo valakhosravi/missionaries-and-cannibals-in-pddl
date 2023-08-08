@@ -1,0 +1,11 @@
+Step    0: BOARD C1, C2 L -> R
+Step    1: BOARD C2 R -> L
+Step    2: BOARD C2, C3 L -> R
+Step    3: BOARD C3 R -> L
+Step    4: BOARD M1, M2 L -> R
+Step    5: BOARD M1, C1 R -> L
+Step    6: BOARD M1, M3 L -> R
+Step    7: BOARD C1 R -> L
+Step    8: BOARD C1, C2 L -> R
+Step    9: BOARD C2 R -> L
+Step    10: BOARD C2, C3 L -> R
